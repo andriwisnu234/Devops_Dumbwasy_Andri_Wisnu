@@ -1,0 +1,43 @@
+1. DEVOPS FUNDAMENTAL
+
+    1.1 Definisi Devops
+    
+    Sebenarnya DevOps itu sendiri adalah gabungan dari Development dan operation dibentuk DevOps ini bertujuan untuk menjembatani antara Deveploper dan operation agar proses pembuatan atau perubahan sebuah produk bisa berjalan dengan cepat
+
+    1.2 Fungsi Devops
+
+Alur dan fungsi Devops
+
+    Plan : proses perencanaan sebelum tim dev menulis program
+    Code : Tim Dev mulai membuat atau menulis code
+    Build : Proses Testing aplikasi yang sudah siap untuk di tes apakah terdapat kendala atau error
+    Test : Tahapan pengujian Fungsional pada aplikasi jika terdapat error maka dikembalikan ke tim Developer
+    Realese : Untuk setiap perubahan kode yang lolos tes akan di realese
+    Deploy : Proses dimana sebuah code akan dijalankan di server
+    Operate : Proses publikasi
+    Monitor : Memonitoring atau memastikan aplikasi berjalan dengan lancar secara publik
+    
+    1.3 Tugas Devops
+
+        apa sih tugas seorang Devops :
+        
+        1. Membantu dan mempercepat projek sebuah produk untuk realis ke public
+        
+        2. Tingkat kegagalan untuk realis app ke publik lebih minim karena si devops sudah mengatur sedemikin rupa sebelum di realis ke publik seperti tes app 
+        
+        3. Bisa mempersingkat waktu perbaikan karena si devops telah tes app dan tau dimana kesalahan itu dan dimana harus diperbaiki
+            
+
+2. Virtualisasi 
+    
+    2.1 Installasi Ubuntu Server
+kita coba untuk install ubuntu server menggunakan virtual machine dari Virtual Box
+
+![a](https://github.com/andriwisnu234/devops17_Dumbways/assets/135598387/43cf98f1-390f-4a5e-ab6c-a3bf1d8c98f8)
+saya sudah mempunyai installasi ubuntu dengan setingan seperti gambar si atas
+
+![b](https://github.com/andriwisnu234/devops17_Dumbways/assets/135598387/09f979f9-c70f-4bba-bccb-2ec49790fa87)
+
+untuk jaringan saya menggunakan jaringan Adapter bridge jaringan komputer fisik yang terhubung ke internet wifi
+Penjelasan tentang jaringan
+
