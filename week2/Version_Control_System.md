@@ -51,8 +51,15 @@ kemudian buat satu repository pada akun github kalian dibagian quick setp pilih 
 
 
 
+branch merupakan perintah yang dibuat untuk membuat versi dari sebuah repository. Seperti kita melakukan clone terhadap sebuah folder dimana folder lainnya dapat diubah atau dihapus lebih leluasa.
 
+contoh 3 commen git
 
+git diff
+
+git show
+
+git stash pop
 
 
 
