@@ -20,11 +20,4 @@ saya akan coba hapus file deletet dan akan mencoba mengembalikannya
 
 ![gitnew](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/2a6adbf1-1294-46a7-b1b6-222d0623a84d)
 
-untuk mengembalikan file yang terhapus lihat di log git log dan copy commitnya
-
-
-
-
-
-
-
+untuk mengembalikan file yang terhapus lihat di log "git log" dan copy commitnya kemudian pindahkan pada branch yang berbeda git ceckout -b nama branch kemudian push gitpush origin nama branch
