@@ -19,3 +19,4 @@ jalankan sudo snap install serve dan  npm install -g serve
 
 jalankan pm2 
 
+![pm2serve](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/681a655c-7458-4a88-be30-a33f93dcdc8c)
