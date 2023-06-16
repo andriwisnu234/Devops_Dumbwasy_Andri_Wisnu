@@ -33,14 +33,7 @@ conf proxy
 
 kemudian restrat atau reload nginx cd /etc/nginx
 
-masuk ke nginx buat proxy
+masuk ke sudo nano /etc/hosts dan tambahkan ip dan domain yang kalian buat di proxy
 
-server { 
-    server_name domain.com; 
-    
-    location / { 
-             proxy_pass http://127.0.0.1:3000;
-    }
-}
-
+kemudian masuk browser dan coba sear menggunakan link yang sudak dibuat dumbflix-andri.xyz
 
