@@ -22,8 +22,6 @@ saya akan coba hapus file deletet dan akan mencoba mengembalikannya
 
 untuk mengembalikan file yang terhapus lihat di log git log dan copy commitnya
 
-![gotlog2](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/ec753575-5dde-4886-b8cf-77dfd17067c8)
-
 
 
 
