@@ -47,7 +47,7 @@ setalah melakukan stage langakah sealanjutnya adalah commit, untuk menjalankan c
 
 ![commit](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/03b7d9a2-24a0-4374-9895-a001fc76df8e)
 
-kemudian buat satu repository pada akun github kalian dibagian quick setp pilih ssh dan copy link ini yang akan kita gunakan untuk remot di terminal lakukan perintah git remote add tambah link pository github kalian dan terakhir proses uploading menggunakan perintah git push
+setelah tadi sudah membuat repository pada akun github dibagian quick setup pilih ssh dan copy link ini yang akan kita gunakan untuk remot di terminal. lakukan perintah git remote add tambah link pository github kalian dan terakhir proses uploading menggunakan perintah git push
 
 ![gitpush](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/5fecef6a-ccb1-4984-b6d7-7c11a5797bbb)
 
