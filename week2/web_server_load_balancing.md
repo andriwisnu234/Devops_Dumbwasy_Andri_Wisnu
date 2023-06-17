@@ -41,7 +41,8 @@ masuk ke sudo nano /etc/hosts dan tambahkan ip dan domain yang kalian buat di pr
 ![hosts](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/39a3f307-952c-48d1-8b3d-a25396beaba8)
 
 
-kemudian masuk browser dan coba sear menggunakan link yang sudak dibuat dumbflix-andri.xyz
+kemudian masuk browser dan coba search menggunakan link yang sudak dibuat dumbflix-andri.xyz seharusnya jalan namun pada kasus ini saya gagal
 
+![qqq](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/ea5af27b-2c5f-4b74-a426-ad7f4c44c6fb)
 
 
