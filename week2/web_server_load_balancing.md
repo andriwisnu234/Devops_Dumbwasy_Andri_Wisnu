@@ -33,7 +33,15 @@ conf proxy
 
 kemudian restrat atau reload nginx cd /etc/nginx
 
+![reload](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/0bfbdf39-4fe8-4254-8b88-cf035de7651a)
+
+
 masuk ke sudo nano /etc/hosts dan tambahkan ip dan domain yang kalian buat di proxy
 
+![hosts](https://github.com/andriwisnu234/Devops_Dumbwasy_Andri_Wisnu/assets/135598387/39a3f307-952c-48d1-8b3d-a25396beaba8)
+
+
 kemudian masuk browser dan coba sear menggunakan link yang sudak dibuat dumbflix-andri.xyz
+
+
 
